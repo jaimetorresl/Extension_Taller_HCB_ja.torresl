@@ -1,0 +1,81 @@
+p {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: #212529;
+}
+
+#fondo{
+  background-color: #DEE2E6;
+}
+#contenido{
+  background-color: #DEE2E6;
+  padding: 0px;
+}
+img{
+  width: 100%;
+}
+h1{
+  font-size: 350%;
+  margin-top: 15px;
+  font-family: 'Brush Script MT';
+  padding: 0px;
+  vertical-align: center ;
+  color: #6C757D;
+  
+}
+h2{
+  font-size: 300%;
+  margin-top: 20px;
+  font-family: 'Brush Script MT';
+  padding: 0px;
+  vertical-align: center ;
+  color: #495057;
+  
+}
+#descargar{
+  padding: 15%;
+  width: 70%;
+}
+#columna{
+  text-align: center ;
+  align-content: center ;
+  background-color: #DEE2E6;
+  height: 34%;
+}
+#columna1{
+  text-align: center ;
+  align-content: center ;
+  background-color: #CED4DA;
+  height: 33%;
+}
+#columna2{
+  background-color: #ADB5BD;
+  height: 33%;
+}
+#iconos{
+  padding: 15%;
+  width: 60%;
+}
+#tecnicas{
+  padding: 10%;
+  text-align: center ;
+  align-content: center ;
+  background-color: #DEE2E6;
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: #DEE2E6;
+  padding: 0px;
+}
+#hola{
+  padding: 0px;
+}
+
+#descripcion{
+  padding: 10%;
+  text-align: center ;
+  align-content: center ;
+  background-color: #CED4DA;
+  height: 100%;
+  width: 100%;
+}
